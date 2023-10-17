@@ -1,0 +1,428 @@
+.images-container {
+    padding: px;
+}
+
+.mall-image {
+    height: 100px;
+    width: 80px;
+}
+
+.main-section-container {
+    background-image: url("https://img.freepik.com/free-photo/young-woman-beautiful-yellow-dress_1303-17535.jpg?w=360&t=st=1697033325~exp=1697033925~hmac=bcff5073d24fe95ef57ebefcb826a523977aaccead07609201afad1cbd565ed5");
+    background-size: cover;
+    height: 100vh;
+}
+
+.inputSearch {
+    width: 80vw;
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.Pantaloons-para {
+    color: #800080;
+    font-family: "Fantasy";
+    font-size: 34px;
+    font-weight: bold;
+
+
+}
+
+.heading {
+    margin: 28px;
+    color: black;
+    font-family: "Fantasy";
+    font-size: 68px;
+    font-weight: bold;
+}
+
+.paragraph {
+    margin: 28px;
+    color: #800080;
+    font-family: "Cursive";
+    font-size: 34px;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration-line: underline;
+}
+
+.button-one {
+    margin: 28px;
+    text-align: center;
+    color: black;
+    background-color: #d0b200;
+    font-family: "Roboto";
+    width: 130px;
+    height: 45px;
+    border-width: 1px;
+    border-radius: 8px;
+    margin-right: 10px;
+
+}
+
+.two-outline-button {
+    text-align: center;
+    color: black;
+    background-color: transparent;
+    font-family: "Roboto";
+    width: 130px;
+    height: 45px;
+    border-width: 1px;
+    border-radius: 8px;
+    margin-right: 10px;
+    border-style: solid;
+
+}
+
+.background-sale-section {
+    background-color: black;
+    width: 200vh;
+}
+
+.sale-section-image {
+    height: 130px;
+    width: 100px;
+}
+
+.text-style {
+    color: pink;
+}
+
+.sale-section-heading {
+    color: grey;
+}
+
+.Catogories-card {
+    padding: 9px;
+    margin: 6px;
+    background-color: white;
+    border-radius: 16px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    height: 56vh;
+    width: 22vw;
+
+}
+
+.Catogories-section-heading {
+    text-align: center;
+    color: black;
+    font-family: "Roboto";
+    font-size: 53px;
+    font-weight: bold;
+
+}
+
+.Catogories-card-heading {
+    text-align: center;
+    color: black;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.Catogories-card-image {
+    height: 50vh;
+}
+
+.Catogories-card {
+    padding: 9px;
+    margin: 6px;
+    background-color: white;
+    border-radius: 16px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    height: 56vh;
+    width: 22vw;
+
+}
+
+.Catogories-card-heading {
+    text-align: center;
+    color: black;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.Catogories-card1-image1 {
+    height: 50vh;
+}
+
+.Catogories-card {
+    padding: 9px;
+    margin: 6px;
+    background-color: white;
+    border-radius: 16px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    height: 56vh;
+    width: 22vw;
+
+}
+
+.Catogories-card-heading {
+    text-align: center;
+    color: black;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.Catogories-card2-image2 {
+    height: 50vh;
+    width: 250px;
+}
+
+.Catogories-card {
+    padding: 9px;
+    margin: 6px;
+    background-color: white;
+    border-radius: 16px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    height: 56vh;
+    width: 22vw;
+
+}
+
+.Catogories-card-heading {
+    text-align: center;
+    color: black;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.Catogories-card3-image3 {
+    height: 50vh;
+}
+
+.Catogories-card {
+    padding: 9px;
+    margin: 6px;
+    background-color: white;
+    border-radius: 16px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    height: 56vh;
+    width: 22vw;
+
+}
+
+.Catogories-card-heading {
+    text-align: center;
+    color: black;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.Catogories-card4-image4 {
+    height: 50vh;
+
+}
+
+.Catogories-card5-image5 {
+    height: 50vh;
+    width: 250px;
+}
+
+.Lehangas-section-heading {
+    text-align: center;
+    color: black;
+    font-family: "Roboto";
+    font-size: 53px;
+    font-weight: bold;
+
+}
+
+.Lehangas-card {
+    padding: 9px;
+    margin: 6px;
+    background-color: black;
+    border-radius: 16px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    height: 56vh;
+    width: 22vw;
+
+}
+
+.Lehangas-card-heading {
+    text-align: center;
+    color: white;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.Lehangas-card-image {
+    height: 50vh;
+    width: 250px;
+}
+
+.Lehangas-card1-image1 {
+    height: 50vh;
+}
+
+.Lehangas-card2-image2 {
+    height: 50vh;
+    width: 250px;
+}
+
+.Lehangas-card3-image3 {
+    height: 50vh;
+    width: 250px;
+}
+
+.Lehangas-card4-image4 {
+    height: 50vh;
+    width: 240px;
+}
+
+.Lehangas-card5-image5 {
+    height: 50vh;
+}
+
+.Kurtis-section-heading {
+    text-align: center;
+    color: black;
+    font-family: "Roboto";
+    font-size: 53px;
+    font-weight: bold;
+
+}
+
+.Kurtis-card {
+    padding: 9px;
+    margin: 6px;
+    background-color: white;
+    border-radius: 16px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    height: 56vh;
+    width: 22vw;
+
+}
+
+.Kurtis-card-heading {
+    text-align: center;
+    color: black;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.Kurtis-card-image {
+    height: 50vh;
+    width: 250px;
+}
+
+.Kurtis-card1-image1 {
+    height: 50vh;
+}
+
+.Kurtis-card2-image2 {
+    height: 50vh;
+    width: 250px;
+}
+
+.Kurtis-card3-image3 {
+    height: 50vh;
+    width: 250px;
+}
+
+.Kurtis-card4-image4 {
+    height: 50vh;
+    width: 240px;
+}
+
+.Kurtis-card5-image5 {
+    height: 50vh;
+}
+
+.select-size {
+    text-align: center;
+    color: white;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 22px;
+}
+
+.select-color {
+    text-align: center;
+    color: white;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 22px;
+}
+
+
+.end-container {
+    background-color: black;
+    height: 40vh;
+    width: 80vw;
+}
+
+.end-heading {
+    color: silver;
+    font-family: "Roboto";
+    font-size: 19px;
+    font-weight: bold;
+    padding-top: 19px;
+    margin-left: 15px;
+}
+
+.end-paragraph {
+    color: white;
+    font-family: "Roboto";
+    font-size: 12px;
+    margin-left: 15px;
+}
+
+
+.follow-us-section-heading {
+    color: silver;
+}
